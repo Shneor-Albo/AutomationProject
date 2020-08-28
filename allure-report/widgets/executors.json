@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:9090/Shneor/",
+  "buildOrder" : 1,
+  "buildName" : "Full Stack Final Project Mobile #1",
+  "buildUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure"
+} ]

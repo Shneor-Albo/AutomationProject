@@ -1,0 +1,158 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "API Tests",
+      "children" : [ {
+        "name" : "SanityTests.studentApi",
+        "children" : [ {
+          "name" : "Test 01 Get Student From List",
+          "uid" : "79d9b66e642c4794",
+          "parentUid" : "fe9eda0bec3e55a7ae33ece4289b99dc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597929129541,
+            "stop" : 1597929133954,
+            "duration" : 4413
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "Test 02 Add Student To List",
+          "uid" : "bb1d8b64237dd8b",
+          "parentUid" : "fe9eda0bec3e55a7ae33ece4289b99dc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597929134270,
+            "stop" : 1597929134869,
+            "duration" : 599
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "Test 03 Update Student in List and Verify it",
+          "uid" : "95d77562fbf1d485",
+          "parentUid" : "fe9eda0bec3e55a7ae33ece4289b99dc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597929134880,
+            "stop" : 1597929135066,
+            "duration" : 186
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "Test 04 Delete Student From List and Verify it",
+          "uid" : "1a1b1535bf40ef6d",
+          "parentUid" : "fe9eda0bec3e55a7ae33ece4289b99dc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597929135077,
+            "stop" : 1597929135128,
+            "duration" : 51
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        } ],
+        "uid" : "fe9eda0bec3e55a7ae33ece4289b99dc"
+      } ],
+      "uid" : "4ed70f54fda3286e80a05bd83e56a3ad"
+    }, {
+      "name" : "Mobile Tests",
+      "children" : [ {
+        "name" : "SanityTests.mortgageMobile",
+        "children" : [ {
+          "name" : "Test 01 Verify Mortgage",
+          "uid" : "cf8b164675b56c2c",
+          "parentUid" : "0e3b129de836388d122ad0979aa67c4b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598178747707,
+            "stop" : 1598178754194,
+            "duration" : 6487
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        } ],
+        "uid" : "0e3b129de836388d122ad0979aa67c4b"
+      } ],
+      "uid" : "8c0e091f779f0cece321e27da4ce33f3"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  }, {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "FullStackFinalProject",
+      "children" : [ {
+        "name" : "SanityTests.calculatorDesktop",
+        "children" : [ {
+          "name" : "startSession",
+          "uid" : "9f1b13ed551ea82e",
+          "parentUid" : "6f59cd29fd6a7ba95b793ec1fb713f04",
+          "status" : "broken",
+          "time" : {
+            "start" : 1598177730656,
+            "stop" : 1598177730664,
+            "duration" : 8
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Test 01 Verify Addition Command",
+          "uid" : "e3676eb1f734075c",
+          "parentUid" : "6f59cd29fd6a7ba95b793ec1fb713f04",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1598177730876,
+            "stop" : 1598177730880,
+            "duration" : 4
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6f59cd29fd6a7ba95b793ec1fb713f04"
+      }, {
+        "name" : "SanityTests.mortgageMobile",
+        "children" : [ {
+          "name" : "startSession",
+          "uid" : "b3a17a117f958287",
+          "parentUid" : "4baf15fb8c9782f1331a702022f694ee",
+          "status" : "broken",
+          "time" : {
+            "start" : 1598178452666,
+            "stop" : 1598178452672,
+            "duration" : 6
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Test 01 Verify Mortgage",
+          "uid" : "82055833ff8b0c20",
+          "parentUid" : "4baf15fb8c9782f1331a702022f694ee",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1598178452873,
+            "stop" : 1598178452877,
+            "duration" : 4
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4baf15fb8c9782f1331a702022f694ee"
+      } ],
+      "uid" : "6cb91f2eb6188c057ad075512825de45"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

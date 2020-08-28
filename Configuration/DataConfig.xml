@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!-- Timeout -->
+    <TimeOut>6</TimeOut>
+
+    <!-- Web -->
+    <BrowserName>Chrome</BrowserName>
+    <Url>https://demo.nopcommerce.com</Url>
+    <ImageRepo>./imageRepository/</ImageRepo>
+
+    <!-- Mobile -->
+
+    <UDID>ce0516056306cf3705</UDID>
+    <APP_PACKAGE>com.shivgadhia.android.ukMortgageCalc</APP_PACKAGE>
+    <APP_ACTIVITY>.MainActivity</APP_ACTIVITY>
+
+    <!-- API -->
+    <Url_api>http://localhost:8090/</Url_api>
+
+    <!-- Electron -->
+    <ElectronDriverPath>./Drivers./electrondriver.exe</ElectronDriverPath>
+    <ElectronAppPath>C:/Automation/ElectronAPIDemos-win32-ia32/ElectronAPIDemos.exe</ElectronAppPath>
+
+    <!-- Desktop -->
+    <Calculator_App>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</Calculator_App>
+    <Appium_Server>http://127.0.0.1:4723</Appium_Server>
+
+    <!-- DB -->
+     <!--Ask yoni abaut this-->
+    <dbUrl>jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12360997</dbUrl>
+    <dbUserName>sql12360997</dbUserName>
+    <dbPassword>RVIBGg6ug1</dbPassword>
+</Environment>

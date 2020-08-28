@@ -1,0 +1,91 @@
+[ {
+  "uid" : "82055833ff8b0c20",
+  "name" : "Test 01 Verify Mortgage",
+  "time" : {
+    "start" : 1598178452873,
+    "stop" : 1598178452877,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9f1b13ed551ea82e",
+  "name" : "startSession",
+  "time" : {
+    "start" : 1598177730656,
+    "stop" : 1598177730664,
+    "duration" : 8
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bb1d8b64237dd8b",
+  "name" : "Test 02 Add Student To List",
+  "time" : {
+    "start" : 1597929134270,
+    "stop" : 1597929134869,
+    "duration" : 599
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95d77562fbf1d485",
+  "name" : "Test 03 Update Student in List and Verify it",
+  "time" : {
+    "start" : 1597929134880,
+    "stop" : 1597929135066,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf8b164675b56c2c",
+  "name" : "Test 01 Verify Mortgage",
+  "time" : {
+    "start" : 1598178747707,
+    "stop" : 1598178754194,
+    "duration" : 6487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79d9b66e642c4794",
+  "name" : "Test 01 Get Student From List",
+  "time" : {
+    "start" : 1597929129541,
+    "stop" : 1597929133954,
+    "duration" : 4413
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3a17a117f958287",
+  "name" : "startSession",
+  "time" : {
+    "start" : 1598178452666,
+    "stop" : 1598178452672,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1a1b1535bf40ef6d",
+  "name" : "Test 04 Delete Student From List and Verify it",
+  "time" : {
+    "start" : 1597929135077,
+    "stop" : 1597929135128,
+    "duration" : 51
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3676eb1f734075c",
+  "name" : "Test 01 Verify Addition Command",
+  "time" : {
+    "start" : 1598177730876,
+    "stop" : 1598177730880,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

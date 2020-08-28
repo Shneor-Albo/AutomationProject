@@ -1,0 +1,2419 @@
+{
+  "d853f705ef89e89c3285609116340320" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "169bce45feb0f4af",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/169bce45feb0f4af",
+      "status" : "failed",
+      "statusDetails" : "expected [zalmys] but found [zalmy]",
+      "time" : {
+        "start" : 1597409078693,
+        "stop" : 1597409082983,
+        "duration" : 4290
+      }
+    } ]
+  },
+  "1508e57cd96a0ed20ddd24453b183831" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "1a1b1535bf40ef6d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure/#testresult/1a1b1535bf40ef6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597929135077,
+        "stop" : 1597929135128,
+        "duration" : 51
+      }
+    }, {
+      "uid" : "d4a73f99f6fc08dc",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/d4a73f99f6fc08dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597928271927,
+        "stop" : 1597928271983,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "c6a432da15f553af",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/c6a432da15f553af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597928122834,
+        "stop" : 1597928122888,
+        "duration" : 54
+      }
+    }, {
+      "uid" : "9e625a82d22a5d22",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/9e625a82d22a5d22",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597925053261,
+        "stop" : 1597925053468,
+        "duration" : 207
+      }
+    } ]
+  },
+  "6f3eeed8681dbde61974dd640858fa23" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23e2264c4edf354d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/23e2264c4edf354d",
+      "status" : "failed",
+      "statusDetails" : "expected [zalmys] but found [zalmy]",
+      "time" : {
+        "start" : 1597409113396,
+        "stop" : 1597409117524,
+        "duration" : 4128
+      }
+    } ]
+  },
+  "301e6a84e403b23533865aacac2425f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 19
+    },
+    "items" : [ {
+      "uid" : "8ad4f543799e81cf",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/8ad4f543799e81cf",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "5ea52cd96176b271",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/5ea52cd96176b271",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "f78bdcbbb8b19ac5",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/f78bdcbbb8b19ac5",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "3c3cdaad2000ef93",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/3c3cdaad2000ef93",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "ec1366b2a123d953",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/ec1366b2a123d953",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "11cef1cd9ec0e05f",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/11cef1cd9ec0e05f",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "fda0b230dafed636",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/fda0b230dafed636",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "47054d57b9f62275",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/47054d57b9f62275",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "f491244b7bb4b0a4",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/f491244b7bb4b0a4",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "e423e2681f044ff3",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/e423e2681f044ff3",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "9351732744a05591",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Electron/4/allure/#testresult/9351732744a05591",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "d873a93af2971cb0",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Electron/3/allure/#testresult/d873a93af2971cb0",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:53506}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ba225aa1f1b7b709b45e949684ee09ca",
+      "time" : {
+        "start" : 1597833481545,
+        "stop" : 1597833486494,
+        "duration" : 4949
+      }
+    }, {
+      "uid" : "ddcd099457cfe947",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Electron/2/allure/#testresult/ddcd099457cfe947",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597761379089,
+        "stop" : 1597761383928,
+        "duration" : 4839
+      }
+    }, {
+      "uid" : "eb3417369f4c74f4",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Electron/1/allure/#testresult/eb3417369f4c74f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597761379089,
+        "stop" : 1597761383928,
+        "duration" : 4839
+      }
+    }, {
+      "uid" : "d89128aa30f68ba2",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/7/allure/#testresult/d89128aa30f68ba2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597761379089,
+        "stop" : 1597761383928,
+        "duration" : 4839
+      }
+    }, {
+      "uid" : "f6782fe2890bc5e0",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/6/allure/#testresult/f6782fe2890bc5e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597761379089,
+        "stop" : 1597761383928,
+        "duration" : 4839
+      }
+    }, {
+      "uid" : "27733cb04d84622e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/5/allure/#testresult/27733cb04d84622e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597761379089,
+        "stop" : 1597761383928,
+        "duration" : 4839
+      }
+    }, {
+      "uid" : "2269a776021f9ce6",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/4/allure/#testresult/2269a776021f9ce6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597761379089,
+        "stop" : 1597761383928,
+        "duration" : 4839
+      }
+    }, {
+      "uid" : "28808411b8f72111",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/28808411b8f72111",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:52552}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: cf9db62e87bb156bc255c357cda148b7",
+      "time" : {
+        "start" : 1597761202467,
+        "stop" : 1597761209519,
+        "duration" : 7052
+      }
+    } ]
+  },
+  "7ae9ba71ae4e279d2bf7b4e322f1bc1e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "f749f35151589ea7",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/f749f35151589ea7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "882dd5d4065c2e9e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/882dd5d4065c2e9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "8a7ca69d372ba9e4",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/8a7ca69d372ba9e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "f141adaf77a3732d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/f141adaf77a3732d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "ded49568276d6fde",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/ded49568276d6fde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "efd08c2d1fbe82ac",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/efd08c2d1fbe82ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "b14f29218de79f7f",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/b14f29218de79f7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "c02410b0348fa7bf",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/c02410b0348fa7bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "689902b526c04e0a",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/689902b526c04e0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "48b0a45532dd11ec",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/48b0a45532dd11ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862006116,
+        "stop" : 1597862006156,
+        "duration" : 40
+      }
+    } ]
+  },
+  "c8dda7302efb1d3cb267bb48be498e36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "b3592bffda1473ed",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/b3592bffda1473ed",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "8cfe81c7ffd9d097",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/8cfe81c7ffd9d097",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "85cba90c16c1bc9",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/85cba90c16c1bc9",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "8afadd22109e2ec",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/8afadd22109e2ec",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "25559bd22b30d765",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/25559bd22b30d765",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "d8fc0684bd05a8a4",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/d8fc0684bd05a8a4",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "5652c1c483431de9",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/5652c1c483431de9",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "49cc39045cc3d6e4",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/49cc39045cc3d6e4",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "8e1217b619c9727c",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/8e1217b619c9727c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "fb4b2eea4b3a42d8",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/fb4b2eea4b3a42d8",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.id: add-to-cart-button-14' (tried for 1 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1597862002094,
+        "stop" : 1597862006097,
+        "duration" : 4003
+      }
+    } ]
+  },
+  "e4af67910da5cd3e74f9bd4aa249428d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "95d77562fbf1d485",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure/#testresult/95d77562fbf1d485",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597929134880,
+        "stop" : 1597929135066,
+        "duration" : 186
+      }
+    }, {
+      "uid" : "1974411ba131f309",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/1974411ba131f309",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597928271703,
+        "stop" : 1597928271905,
+        "duration" : 202
+      }
+    }, {
+      "uid" : "bc800c998fc04ce0",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/bc800c998fc04ce0",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597928122617,
+        "stop" : 1597928122804,
+        "duration" : 187
+      }
+    }, {
+      "uid" : "6c4c48b5f35ffcdd",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/6c4c48b5f35ffcdd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597925053054,
+        "stop" : 1597925053247,
+        "duration" : 193
+      }
+    } ]
+  },
+  "7dd8d877079eafb8ac23cb2541d7c3f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "82055833ff8b0c20",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure/#testresult/82055833ff8b0c20",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1598178452873,
+        "stop" : 1598178452877,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "e0067e5bedd944f3",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/e0067e5bedd944f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597584637291,
+        "stop" : 1597584643898,
+        "duration" : 6607
+      }
+    } ]
+  },
+  "cce80c3daf60ab1c7d48c990105f441e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "11bb98154af83f4a",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/11bb98154af83f4a",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "c000da16b1477284",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/c000da16b1477284",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "90ab4922277e49ae",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/90ab4922277e49ae",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "9c4b1da2a81890c7",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/9c4b1da2a81890c7",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "ddfeccf9d9523032",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/ddfeccf9d9523032",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "e6a25bc4b831bbe4",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/e6a25bc4b831bbe4",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "d547121066ff65b3",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/d547121066ff65b3",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "39b84ca907e81f7",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/39b84ca907e81f7",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "7c070525ea44a1cf",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/7c070525ea44a1cf",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "40cb35d50f9ffffa",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/40cb35d50f9ffffa",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Chrome failed to start: exited normally\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 61.05 seconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: driver.version: ChromeDriver",
+      "time" : {
+        "start" : 1597861326282,
+        "stop" : 1597861326286,
+        "duration" : 4
+      }
+    } ]
+  },
+  "cf8dff18e98fc49ecbf4e4597bc56a74" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "75daa224c052ae30",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/75daa224c052ae30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "966dae19f55094ae",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/966dae19f55094ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "6ecbd7153e11754b",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/6ecbd7153e11754b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "48b8ecbc12280ecf",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/48b8ecbc12280ecf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "43cb1017747d73f4",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/43cb1017747d73f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "748c15191128b6b",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/748c15191128b6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "5269b77016e1f15d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/5269b77016e1f15d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "f64710f4f9a84a74",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/f64710f4f9a84a74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "e48119d4cb6a0987",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/e48119d4cb6a0987",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "d5e99b6a6a74e4be",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/d5e99b6a6a74e4be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597862200118,
+        "stop" : 1597862200876,
+        "duration" : 758
+      }
+    } ]
+  },
+  "7e69ab32e0dd467a582a52082876db82" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d468b7d342e99ae",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/5d468b7d342e99ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597406316513,
+        "stop" : 1597406321285,
+        "duration" : 4772
+      }
+    } ]
+  },
+  "5c9ce3fab5bb7ca040a2cb380fbc139d" : {
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "679a7cf2aeef5381",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/679a7cf2aeef5381",
+      "status" : "failed",
+      "statusDetails" : "expected [zalmys] but found [zalmy]",
+      "time" : {
+        "start" : 1597867027407,
+        "stop" : 1597867027739,
+        "duration" : 332
+      }
+    }, {
+      "uid" : "52e193be5b1b7ee",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/52e193be5b1b7ee",
+      "status" : "failed",
+      "statusDetails" : "expected [zalmys] but found [zalmy]",
+      "time" : {
+        "start" : 1597867027407,
+        "stop" : 1597867027739,
+        "duration" : 332
+      }
+    }, {
+      "uid" : "5057d3d1687da545",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/5057d3d1687da545",
+      "status" : "failed",
+      "statusDetails" : "expected [zalmys] but found [zalmy]",
+      "time" : {
+        "start" : 1597867027407,
+        "stop" : 1597867027739,
+        "duration" : 332
+      }
+    } ]
+  },
+  "7a9a8a0064637e693983b24841498580" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "8afe534fdcd2d8f7",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/8afe534fdcd2d8f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597866205101,
+        "stop" : 1597866208022,
+        "duration" : 2921
+      }
+    }, {
+      "uid" : "e8782e29c4342794",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/e8782e29c4342794",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597866205101,
+        "stop" : 1597866208022,
+        "duration" : 2921
+      }
+    }, {
+      "uid" : "7830b05062e2c0c0",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/7830b05062e2c0c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597866205101,
+        "stop" : 1597866208022,
+        "duration" : 2921
+      }
+    } ]
+  },
+  "70e8f2b2e20b22ccb6e7b9d5e8b0326c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9f1b13ed551ea82e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure/#testresult/9f1b13ed551ea82e",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1598177730656,
+        "stop" : 1598177730664,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "3fb2da9e9dbcbac0",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/3fb2da9e9dbcbac0",
+      "status" : "broken",
+      "statusDetails" : "io.appium.java_client.AppiumDriver: method <init>(Ljava/net/URL;Lorg/openqa/selenium/Capabilities;)V not found",
+      "time" : {
+        "start" : 1597314898152,
+        "stop" : 1597314898167,
+        "duration" : 15
+      }
+    } ]
+  },
+  "3c416384eb56a8a53af25a53a74f1a7c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 10,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 11
+    },
+    "items" : [ {
+      "uid" : "b7cdf1f697dbe621",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/b7cdf1f697dbe621",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "a4628271a4b88177",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/a4628271a4b88177",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "d47fc151958b7e2e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/d47fc151958b7e2e",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "bd9b4983eda8074a",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/bd9b4983eda8074a",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "a974c62cd3644181",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/a974c62cd3644181",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "1cd5e36fd17d7902",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/1cd5e36fd17d7902",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "58c5e6908108ba27",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/58c5e6908108ba27",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "aac94ccabe64ccfb",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/aac94ccabe64ccfb",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "f3d742dda681a96d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/f3d742dda681a96d",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "a22af52d5565bd1d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/a22af52d5565bd1d",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438749,
+        "stop" : 1597843438754,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "9cc2d7578edb86b5",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/9cc2d7578edb86b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597573281384,
+        "stop" : 1597573286824,
+        "duration" : 5440
+      }
+    } ]
+  },
+  "bcbd6073062bedee14efe7c2ec8e07c5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "3ed1498aa7384f90",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/3ed1498aa7384f90",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "9bc9f81da7fae65e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/9bc9f81da7fae65e",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "a79ef474f2fbb099",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/a79ef474f2fbb099",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "d5a1d282842ce38",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/d5a1d282842ce38",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "a2b6cedcac81aa81",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/a2b6cedcac81aa81",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "366f34722145fbef",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/366f34722145fbef",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "f71ec52fb5fd040",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/f71ec52fb5fd040",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "d8183b3824df8c29",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/d8183b3824df8c29",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "fe34614a308662e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/fe34614a308662e",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    }, {
+      "uid" : "b6c83e47c991b383",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/b6c83e47c991b383",
+      "status" : "broken",
+      "statusDetails" : "-1",
+      "time" : {
+        "start" : 1597862006166,
+        "stop" : 1597862009952,
+        "duration" : 3786
+      }
+    } ]
+  },
+  "9f2ece66e61d1a7e8d09b91f97a8b661" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e3676eb1f734075c",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure/#testresult/e3676eb1f734075c",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1598177730876,
+        "stop" : 1598177730880,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "2952316c61304416",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/2952316c61304416",
+      "status" : "failed",
+      "statusDetails" : "expected [1] but found [2]",
+      "time" : {
+        "start" : 1597319047943,
+        "stop" : 1597319053090,
+        "duration" : 5147
+      }
+    } ]
+  },
+  "3330677acda6b4a6825c064e4e2c22d4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e388728acb445223",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/e388728acb445223",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.remote.internal.ApacheHttpClient.execute(Lorg/openqa/selenium/remote/http/HttpRequest;)Lorg/openqa/selenium/remote/http/HttpResponse;",
+      "time" : {
+        "start" : 1597572772803,
+        "stop" : 1597572772803,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f825659a321266bde7ec7bd9a170cea4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "d6ffde333292b9f8",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/d6ffde333292b9f8",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1597915733111,
+        "stop" : 1597915733116,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "874c67ec4b1e6916",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/874c67ec4b1e6916",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1597915733111,
+        "stop" : 1597915733116,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "148db2b990f805c9",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/148db2b990f805c9",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1597915733111,
+        "stop" : 1597915733116,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "7ac4e457b15decb7",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/7ac4e457b15decb7",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597324752997,
+        "stop" : 1597324753007,
+        "duration" : 10
+      }
+    } ]
+  },
+  "12f11e41b1457de82fbc17e76eabe654" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "546ae0c3393d8034",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/546ae0c3393d8034",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "a4dc43c77fba24cf",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/a4dc43c77fba24cf",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "627e44335d19086",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/627e44335d19086",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "f06a43a5bc76541b",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/f06a43a5bc76541b",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "900a6ae07bc466ab",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/900a6ae07bc466ab",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "6125e54e49de76f2",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/6125e54e49de76f2",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "4ee9c728c8697f22",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/4ee9c728c8697f22",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "991766ffe228a11e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/991766ffe228a11e",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "752bd86639d3cf51",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/752bd86639d3cf51",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "f6d798726a77ce2c",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/f6d798726a77ce2c",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597862009961,
+        "stop" : 1597862010914,
+        "duration" : 953
+      }
+    } ]
+  },
+  "599dc39ab213ae3a86b987408ef03cb5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "d0f7c12d964b80d0",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/d0f7c12d964b80d0",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "496270caec80f05d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/496270caec80f05d",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "d9ed45ab9c62b856",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/d9ed45ab9c62b856",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "3cf805af9730f27c",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/3cf805af9730f27c",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "97476fda9857a5b3",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/97476fda9857a5b3",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a25db13c0bfa3858",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/a25db13c0bfa3858",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "1ee0f1bcb1f28938",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/1ee0f1bcb1f28938",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "852d53db4ffb8671",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/852d53db4ffb8671",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "34a267b337c2c4ad",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/34a267b337c2c4ad",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "3b997927dea4540c",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/3b997927dea4540c",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597843438604,
+        "stop" : 1597843438607,
+        "duration" : 3
+      }
+    } ]
+  },
+  "a4b258ea227e34f5ca2debe72cfb677f" : {
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "61f96c99e054e201",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/61f96c99e054e201",
+      "status" : "failed",
+      "statusDetails" : "expected [zalmys] but found [zalmy]",
+      "time" : {
+        "start" : 1597867350512,
+        "stop" : 1597867350806,
+        "duration" : 294
+      }
+    }, {
+      "uid" : "3969776da58ecd1c",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/3969776da58ecd1c",
+      "status" : "failed",
+      "statusDetails" : "expected [zalmys] but found [zalmy]",
+      "time" : {
+        "start" : 1597867350512,
+        "stop" : 1597867350806,
+        "duration" : 294
+      }
+    }, {
+      "uid" : "d31443609e28bcc8",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/d31443609e28bcc8",
+      "status" : "failed",
+      "statusDetails" : "expected [zalmys] but found [zalmy]",
+      "time" : {
+        "start" : 1597867350512,
+        "stop" : 1597867350806,
+        "duration" : 294
+      }
+    } ]
+  },
+  "ac9894c1356405d6cddea016813ec10c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "1ad9ca1bdced2556",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/1ad9ca1bdced2556",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55759}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: eeabfe50aa19ba5ced9c56541408b4f4",
+      "time" : {
+        "start" : 1597865649290,
+        "stop" : 1597865655095,
+        "duration" : 5805
+      }
+    }, {
+      "uid" : "2ab33fd9ad21d6be",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/2ab33fd9ad21d6be",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55759}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: eeabfe50aa19ba5ced9c56541408b4f4",
+      "time" : {
+        "start" : 1597865649290,
+        "stop" : 1597865655095,
+        "duration" : 5805
+      }
+    }, {
+      "uid" : "f5e6d12965ba0311",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/f5e6d12965ba0311",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55759}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: eeabfe50aa19ba5ced9c56541408b4f4",
+      "time" : {
+        "start" : 1597865649290,
+        "stop" : 1597865655095,
+        "duration" : 5805
+      }
+    }, {
+      "uid" : "88f188adb5ea4916",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/88f188adb5ea4916",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55615}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 3166335217a49fc0a4b493eb3d105379",
+      "time" : {
+        "start" : 1597863610252,
+        "stop" : 1597863615054,
+        "duration" : 4802
+      }
+    }, {
+      "uid" : "5c88c403aa02206d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/5c88c403aa02206d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597863529368,
+        "stop" : 1597863533228,
+        "duration" : 3860
+      }
+    }, {
+      "uid" : "b712e3f01788c379",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/b712e3f01788c379",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55364}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 99efeaf4d2796372321e121abd233287",
+      "time" : {
+        "start" : 1597863167532,
+        "stop" : 1597863172403,
+        "duration" : 4871
+      }
+    }, {
+      "uid" : "edb5b9fac852c5d0",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/edb5b9fac852c5d0",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 188c02ba777b98d871fbf233dead8e8a",
+      "time" : {
+        "start" : 1597863125049,
+        "stop" : 1597863130648,
+        "duration" : 5599
+      }
+    }, {
+      "uid" : "60a2460f6f6979f3",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/60a2460f6f6979f3",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a7718b282bffdf6507814c4a6e4acc9d",
+      "time" : {
+        "start" : 1597863050607,
+        "stop" : 1597863056126,
+        "duration" : 5519
+      }
+    }, {
+      "uid" : "a7e187b4b89ddb86",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/a7e187b4b89ddb86",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 3df9a64793b3a397803937ea21f8233d",
+      "time" : {
+        "start" : 1597862967949,
+        "stop" : 1597862973501,
+        "duration" : 5552
+      }
+    }, {
+      "uid" : "81494fb80488702f",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/81494fb80488702f",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55218}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: bd029f09d7d26313b553fb3b1801df09",
+      "time" : {
+        "start" : 1597862868331,
+        "stop" : 1597862873776,
+        "duration" : 5445
+      }
+    } ]
+  },
+  "5c044cc99e97533742d3d5cb87bf405b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "79d9b66e642c4794",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure/#testresult/79d9b66e642c4794",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597929129541,
+        "stop" : 1597929133954,
+        "duration" : 4413
+      }
+    }, {
+      "uid" : "dfc8ec35db773619",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/dfc8ec35db773619",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597928266423,
+        "stop" : 1597928270826,
+        "duration" : 4403
+      }
+    }, {
+      "uid" : "22911046cd984729",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/22911046cd984729",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597928117366,
+        "stop" : 1597928121699,
+        "duration" : 4333
+      }
+    }, {
+      "uid" : "e321a2c562be9509",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/e321a2c562be9509",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597925047112,
+        "stop" : 1597925051952,
+        "duration" : 4840
+      }
+    } ]
+  },
+  "fcfa4e9fcf527b7edb1daaffd2f7f251" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf8b164675b56c2c",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure/#testresult/cf8b164675b56c2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598178747707,
+        "stop" : 1598178754194,
+        "duration" : 6487
+      }
+    } ]
+  },
+  "89236f943b7d572c194fd821a9975e4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6961d13b54bc2106",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/6961d13b54bc2106",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597577622892,
+        "stop" : 1597577622892,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bb518215a751f3382608a53eacd29299" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "852f5d1a04305e02",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/852f5d1a04305e02",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    }, {
+      "uid" : "40459a63a7df79f",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/40459a63a7df79f",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    }, {
+      "uid" : "1a1d9ae1e4f74147",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/1a1d9ae1e4f74147",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    }, {
+      "uid" : "390931259a0f1a9",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/390931259a0f1a9",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    }, {
+      "uid" : "5fc02314e27558c",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/5fc02314e27558c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    }, {
+      "uid" : "883d42e9b9ad2f17",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/883d42e9b9ad2f17",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    }, {
+      "uid" : "144c05cefacd718d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/144c05cefacd718d",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    }, {
+      "uid" : "c9699e0bc5f55a5d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/c9699e0bc5f55a5d",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    }, {
+      "uid" : "ca67394a821325fa",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/ca67394a821325fa",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    }, {
+      "uid" : "98a6915a2d0aab96",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/98a6915a2d0aab96",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e07c6ed73ed6f827f157efe3e3631bae",
+      "time" : {
+        "start" : 1597861998135,
+        "stop" : 1597862001951,
+        "duration" : 3816
+      }
+    } ]
+  },
+  "e160e61b5a26f0032089f415ddd02873" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "e7f3321257d0f329",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/e7f3321257d0f329",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "fb89d0720724f244",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/fb89d0720724f244",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "fe3d7ffd21310181",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/fe3d7ffd21310181",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "365fb2fb087b273b",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/365fb2fb087b273b",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "349e79f0230f17b0",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/349e79f0230f17b0",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "f849083c42acae71",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/f849083c42acae71",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "9b897275f8d10418",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/9b897275f8d10418",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "95304cd1d8978324",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/95304cd1d8978324",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "2e25b4b72bbe9b30",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/2e25b4b72bbe9b30",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "55f2617e5dfae1f1",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/55f2617e5dfae1f1",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583055,
+        "stop" : 1597839583067,
+        "duration" : 12
+      }
+    } ]
+  },
+  "a5b3579fc5ecc7fac491205764da6fa5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "39fec6eb1e2ffa71",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/39fec6eb1e2ffa71",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "e49423ebcb9d59b1",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/e49423ebcb9d59b1",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "d8bec74b61f6fbc3",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/d8bec74b61f6fbc3",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "7c4dd621610ccd7a",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/7c4dd621610ccd7a",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "125a157e0adf2188",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/125a157e0adf2188",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "fecafbcd9e1fd529",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/fecafbcd9e1fd529",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "d9ff6cd1bfc31083",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/d9ff6cd1bfc31083",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "c756d5b1f5e47029",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/c756d5b1f5e47029",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "c03a67aa67d0ac5e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/c03a67aa67d0ac5e",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    }, {
+      "uid" : "f6a861c9e32fc11c",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/f6a861c9e32fc11c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text found by By.cssSelector: div.message-error.validation-summary-errors to match pattern \"Login was unsuccessful\". Current text: \"null\" (tried for 1 second(s) with 500 milliseconds interval)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-GKBRS1C', ip: '192.168.1.169', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.125, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\SHNEOR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 27ea622e007def030cf144cef44b753a",
+      "time" : {
+        "start" : 1597861739056,
+        "stop" : 1597861743059,
+        "duration" : 4003
+      }
+    } ]
+  },
+  "45e05b99dde0f8f34c2487f05d2c3813" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "a1096e55691bf46a",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/a1096e55691bf46a",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "9cdbf8d87b2c7759",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/9cdbf8d87b2c7759",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "d74fed8b2dc2917e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/d74fed8b2dc2917e",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "f05953b2219e5e5b",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/f05953b2219e5e5b",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "5fa1ff0ed196e2ff",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/5fa1ff0ed196e2ff",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "498f0d037337fef3",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/498f0d037337fef3",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "3b6b923f67499360",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/3b6b923f67499360",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "8c8904dc15447a6a",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/8c8904dc15447a6a",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "e05e03554a8e8e4a",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/e05e03554a8e8e4a",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "5514d5e61ef00c9e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/5514d5e61ef00c9e",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597860879160,
+        "stop" : 1597860879164,
+        "duration" : 4
+      }
+    } ]
+  },
+  "1ce3faaf624d85f73d7028501cb54681" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b3a17a117f958287",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure/#testresult/b3a17a117f958287",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1598178452666,
+        "stop" : 1598178452672,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "70067209c6fceb65",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/70067209c6fceb65",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597584386110,
+        "stop" : 1597584386126,
+        "duration" : 16
+      }
+    } ]
+  },
+  "28e622623b4a0a4fe51a7b7e6c1529ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "bb1d8b64237dd8b",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Mobile/1/allure/#testresult/bb1d8b64237dd8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597929134270,
+        "stop" : 1597929134869,
+        "duration" : 599
+      }
+    }, {
+      "uid" : "4591558aeabb0839",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/4591558aeabb0839",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597928271049,
+        "stop" : 1597928271689,
+        "duration" : 640
+      }
+    }, {
+      "uid" : "40955d9704440fc1",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/40955d9704440fc1",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597928121949,
+        "stop" : 1597928122604,
+        "duration" : 655
+      }
+    }, {
+      "uid" : "c7c6671ffa65700e",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/c7c6671ffa65700e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597925052203,
+        "stop" : 1597925053042,
+        "duration" : 839
+      }
+    } ]
+  },
+  "d0bab8b3fbc69b4bc7a0579b41c5c4d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 10,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 11
+    },
+    "items" : [ {
+      "uid" : "b76ca30042bfcaa",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/b76ca30042bfcaa",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "c4ada9f8965cdf28",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/c4ada9f8965cdf28",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "1cf43929a08606c2",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/1cf43929a08606c2",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "410b3057986b03b7",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/7/allure/#testresult/410b3057986b03b7",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "87c43789ce3f5008",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/6/allure/#testresult/87c43789ce3f5008",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "3c9e61040c19adfe",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/5/allure/#testresult/3c9e61040c19adfe",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "de5969be62bc657d",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/4/allure/#testresult/de5969be62bc657d",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a56cd140f9d87f47",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/3/allure/#testresult/a56cd140f9d87f47",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "cdd450a66a1f9b2",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/2/allure/#testresult/cdd450a66a1f9b2",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "7c95630e8bdceb3f",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20WebDB/1/allure/#testresult/7c95630e8bdceb3f",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated startSession.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1597839583353,
+        "stop" : 1597839583356,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "33415fb63f669cae",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/33415fb63f669cae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597760267799,
+        "stop" : 1597760269187,
+        "duration" : 1388
+      }
+    } ]
+  },
+  "d4e088891f31d460759a71790468b5fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2cd75c6cb482b212",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20Web/3/allure/#testresult/2cd75c6cb482b212",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597408734079,
+        "stop" : 1597408738361,
+        "duration" : 4282
+      }
+    } ]
+  },
+  "717066104e8c9ff09538c52d686e794d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 3,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "dfec184da86b5ab7",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/dfec184da86b5ab7",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1597915733432,
+        "stop" : 1597915733444,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "712789588dbe70bc",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/712789588dbe70bc",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1597915733432,
+        "stop" : 1597915733444,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "a5fa1f9df163f44f",
+      "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/a5fa1f9df163f44f",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\ShneorAlbo\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1597915733432,
+        "stop" : 1597915733444,
+        "duration" : 12
+      }
+    } ]
+  }
+}

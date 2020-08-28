@@ -1,0 +1,159 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-GKBRS1C",
+    "children" : [ {
+      "name" : "6856@DESKTOP-GKBRS1C.main(1)",
+      "children" : [ {
+        "name" : "Test 01 Verify Mortgage",
+        "uid" : "cf8b164675b56c2c",
+        "parentUid" : "3dfecfe2961e3d1b16f880dffaf39021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598178747707,
+          "stop" : 1598178754194,
+          "duration" : 6487
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      } ],
+      "uid" : "3dfecfe2961e3d1b16f880dffaf39021"
+    }, {
+      "name" : "12948@DESKTOP-GKBRS1C.main(1)",
+      "children" : [ {
+        "name" : "Test 04 Delete Student From List and Verify it",
+        "uid" : "1a1b1535bf40ef6d",
+        "parentUid" : "62b4225d50997206f736996f575d31b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597929135077,
+          "stop" : 1597929135128,
+          "duration" : 51
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02 Add Student To List",
+        "uid" : "bb1d8b64237dd8b",
+        "parentUid" : "62b4225d50997206f736996f575d31b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597929134270,
+          "stop" : 1597929134869,
+          "duration" : 599
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 01 Get Student From List",
+        "uid" : "79d9b66e642c4794",
+        "parentUid" : "62b4225d50997206f736996f575d31b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597929129541,
+          "stop" : 1597929133954,
+          "duration" : 4413
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03 Update Student in List and Verify it",
+        "uid" : "95d77562fbf1d485",
+        "parentUid" : "62b4225d50997206f736996f575d31b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597929134880,
+          "stop" : 1597929135066,
+          "duration" : 186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "62b4225d50997206f736996f575d31b2"
+    }, {
+      "name" : "5272@DESKTOP-GKBRS1C.main(1)",
+      "children" : [ {
+        "name" : "Test 01 Verify Mortgage",
+        "uid" : "82055833ff8b0c20",
+        "parentUid" : "4f076c48d8907353e6f0f3808da058ca",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1598178452873,
+          "stop" : 1598178452877,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "startSession",
+        "uid" : "b3a17a117f958287",
+        "parentUid" : "4f076c48d8907353e6f0f3808da058ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598178452666,
+          "stop" : 1598178452672,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4f076c48d8907353e6f0f3808da058ca"
+    }, {
+      "name" : "7008@DESKTOP-GKBRS1C.main(1)",
+      "children" : [ {
+        "name" : "Test 01 Verify Addition Command",
+        "uid" : "e3676eb1f734075c",
+        "parentUid" : "47b5c93a199e82bd3e11eeb04b3f0c35",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1598177730876,
+          "stop" : 1598177730880,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "startSession",
+        "uid" : "9f1b13ed551ea82e",
+        "parentUid" : "47b5c93a199e82bd3e11eeb04b3f0c35",
+        "status" : "broken",
+        "time" : {
+          "start" : 1598177730656,
+          "stop" : 1598177730664,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "47b5c93a199e82bd3e11eeb04b3f0c35"
+    }, {
+      "name" : "8036@DESKTOP-GKBRS1C.main(1)",
+      "children" : [ {
+        "name" : "Test 01 Verify Mortgage",
+        "uid" : "fab69876e8c6d1b8",
+        "parentUid" : "dd74737ca97ff9d6007d73155fe40419",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598178489754,
+          "stop" : 1598178493596,
+          "duration" : 3842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      } ],
+      "uid" : "dd74737ca97ff9d6007d73155fe40419"
+    } ],
+    "uid" : "b345e2d42e72d646365b042e301ceb8d"
+  } ]
+}

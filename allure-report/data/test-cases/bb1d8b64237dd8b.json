@@ -1,0 +1,291 @@
+{
+  "uid" : "bb1d8b64237dd8b",
+  "name" : "Test 02 Add Student To List",
+  "fullName" : "SanityTests.studentApi.test02_addStudent",
+  "historyId" : "28e622623b4a0a4fe51a7b7e6c1529ae",
+  "time" : {
+    "start" : 1597929134270,
+    "stop" : 1597929134869,
+    "duration" : 599
+  },
+  "description" : "Add Student",
+  "descriptionHtml" : "<p>Add Student</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1597929123344,
+      "stop" : 1597929129437,
+      "duration" : 6093
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Add Student",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Create Student In Student List",
+      "time" : {
+        "start" : 1597929134271,
+        "stop" : 1597929134730,
+        "duration" : 459
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Post Data To Server",
+        "time" : {
+          "start" : 1597929134274,
+          "stop" : 1597929134730,
+          "duration" : 456
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "params",
+          "value" : "{\"firstName\":\"shneor\",\"lastName\":\"albo\",\"programme\":\"QA\",\"email\":\"shneor@gmail1.com\"}"
+        }, {
+          "name" : "resource",
+          "value" : "/student/"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "firstName",
+        "value" : "shneor"
+      }, {
+        "name" : "lastName",
+        "value" : "albo"
+      }, {
+        "name" : "email",
+        "value" : "shneor@gmail1.com"
+      }, {
+        "name" : "programme",
+        "value" : "QA"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    }, {
+      "name" : "Get Student From Student List",
+      "time" : {
+        "start" : 1597929134730,
+        "stop" : 1597929134868,
+        "duration" : 138
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Get Data From Server",
+        "time" : {
+          "start" : 1597929134730,
+          "stop" : 1597929134792,
+          "duration" : 62
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "paramValues",
+          "value" : "/student/list"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "Extract Value From Json Format",
+        "time" : {
+          "start" : 1597929134792,
+          "stop" : 1597929134868,
+          "duration" : 76
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "response",
+          "value" : "io.restassured.internal.RestAssuredResponseImpl@3dfc59c5"
+        }, {
+          "name" : "path",
+          "value" : "[100].firstName"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "jpath",
+        "value" : "[100].firstName"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 2,
+      "hasContent" : true
+    }, {
+      "name" : "verify Text With Text",
+      "time" : {
+        "start" : 1597929134868,
+        "stop" : 1597929134868,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actualText",
+        "value" : "shneor"
+      }, {
+        "name" : "expectedText",
+        "value" : "shneor"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1597929134873,
+      "stop" : 1597929134873,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1597929135133,
+      "stop" : 1597929135144,
+      "duration" : 11
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.studentApi"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.studentApi"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02_addStudent"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "API Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.studentApi"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GKBRS1C"
+  }, {
+    "name" : "thread",
+    "value" : "12948@DESKTOP-GKBRS1C.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "api"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "4591558aeabb0839",
+        "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/4591558aeabb0839",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597928271049,
+          "stop" : 1597928271689,
+          "duration" : 640
+        }
+      }, {
+        "uid" : "40955d9704440fc1",
+        "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/40955d9704440fc1",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1597928121949,
+          "stop" : 1597928122604,
+          "duration" : 655
+        }
+      }, {
+        "uid" : "c7c6671ffa65700e",
+        "reportUrl" : "http://localhost:9090/Shneor/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/c7c6671ffa65700e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597925052203,
+          "stop" : 1597925053042,
+          "duration" : 839
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "bb1d8b64237dd8b.json",
+  "parameterValues" : [ "api" ]
+}
